@@ -1,0 +1,6 @@
+This file  is to practice rebase (Before rebase)
+
+
+
+
+Updated file1.txt and added new feature!!
